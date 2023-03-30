@@ -152,7 +152,7 @@ namespace SinglyLinkedList
             // Return error message if SLL is empty or index greater than the SLL size
             if (this.isEmpty || index > this.Count)
             {
-                return "The index provided does not exists";
+                return "-1";
             }
             else
             {

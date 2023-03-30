@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r1tmeiP3oKuT4DYg3+ZAo31L4eGuZ3OH1I2iRnzdm9dhUHrrYSj7mytwZUkq0EPSpRc9LgtgA3u8Oypf56UBhg==",
+  "dgSpecHash": "f0OPlPTJLaVRNI975sUhPowb1XoiVcY7EmLhK2Pxdejl9Z/rZbxZaI7X0DtASLpGMV7coWHq/vodk4Jc+KTkXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oribe\\Documents\\SAIT\\OOP C#\\SinglyLinkedList\\SinglyLinkedList\\SinglyLinkedList.csproj",
+  "projectFilePath": "C:\\Users\\oribe\\Documents\\SAIT\\OOP C#\\SinglyLinkedListLab\\SinglyLinkedList\\SinglyLinkedList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oribe\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\oribe\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

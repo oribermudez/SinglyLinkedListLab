@@ -158,16 +158,16 @@ namespace SinglyLinkedList
             string result = sll.GetValue(1);
 
             // Assert the method returns false if SLL is empty
-            Assert.AreEqual(result, "The index provided does not exists");
+            Assert.AreEqual(result, "-1");
 
             // Add two nodes and remove the last
             string firstName = "Joe Blow";
             string secondName = "Joe Schmoe";
             string thirdName = "Joe Smith";
             string fourthName = "Jane Doe";
-            string fifthName = "Jane Doe";
-            string sixthName = "Jane Doe";
-            string seventhName = "Jane Doe";
+            string fifthName = "Bob Bobberson";
+            string sixthName = "Sam Sammerson";
+            string seventhName = "Dave Daverson";
 
             sll.AddLast(firstName);
             sll.AddLast(secondName);

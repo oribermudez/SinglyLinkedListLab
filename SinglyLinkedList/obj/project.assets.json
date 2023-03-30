@@ -3932,11 +3932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oribe\\Documents\\SAIT\\OOP C#\\SinglyLinkedList\\SinglyLinkedList\\SinglyLinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\oribe\\Documents\\SAIT\\OOP C#\\SinglyLinkedListLab\\SinglyLinkedList\\SinglyLinkedList.csproj",
       "projectName": "SinglyLinkedList",
-      "projectPath": "C:\\Users\\oribe\\Documents\\SAIT\\OOP C#\\SinglyLinkedList\\SinglyLinkedList\\SinglyLinkedList.csproj",
+      "projectPath": "C:\\Users\\oribe\\Documents\\SAIT\\OOP C#\\SinglyLinkedListLab\\SinglyLinkedList\\SinglyLinkedList.csproj",
       "packagesPath": "C:\\Users\\oribe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oribe\\Documents\\SAIT\\OOP C#\\SinglyLinkedList\\SinglyLinkedList\\obj\\",
+      "outputPath": "C:\\Users\\oribe\\Documents\\SAIT\\OOP C#\\SinglyLinkedListLab\\SinglyLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
